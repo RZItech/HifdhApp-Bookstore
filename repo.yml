@@ -1,5 +1,5 @@
 list:
   name: Al Jazariyya
-    description: Book about tajweed (currently only the first 4 chapters)
+    description: Book about tajweed - WIP
     path: books/jazariyya
     version: 0.1
