@@ -1,0 +1,227 @@
+name: Al Jazariyya
+version: 0.1
+chapter_1:
+  name: Introduction
+  arabic: |
+    بِسْمِ ٱللّٰهِ ٱلرَّحْمٰنِ ٱلرَّحِيمِ
+    يَقُـولُ رَاجـِي عَفْـوِ رَبٍّ سَـامِعِ
+    مُحَـمَّـدُ بْـنُ الْجَـزَرِىِّ الشَّافِـعِي
+    الْـحَمْــدُ لِلَّـهِ وَصَـلَّـى اللّـَهُ
+    عَـلَـى نَبِـيِّـهِ وَمُـصْطــَفَـاهُ
+    مُـحَـمَّـدٍ وَآلِــهِ وَصَـحْـبِـه
+    وَمُقْـرِئِ الْقُــرْآنِ مَـعْ مُحـِـبِّه
+    وَبَـعْــدُ إِنَّ هَــذِهِ مُـقَـدِّمَـه
+    فيـماَ عَـلَـى قَـارِئِـهِ أَنْ يَعْلَـمهْ
+    إذْ وَاجِـبٌ عَلَـيْـهِـمُ مُحَـتّــمُ
+    قَـبْـلَ الشُـرُوعِ أَوَّلاً أَنْ يَعْلـَمُوا
+    مَـخَارِجَ الْحُـرُوفِ وَالـصِّـفَاتِ
+    لِـيَـلْفِـظُوا بِأَفْـصَــحِ اللُغَـاتِ
+    مُحَررِي التَّـجْـوِيـدِ وَالمَوَاقِـف
+    وَما الَّـذِي رُسِّـمَ في المَصـاَحِـفِ
+    مِنْ كُـلِّ مَقْطُوعٍ وَمَوْصـُولٍ بِـهَا
+    وَتَـاءِ أُنْـثَى لَمْ تَـكُنْ تُكْتَـبْ بِـهَ
+  translation: |
+    In the name of Allah, the Most Merciful, the Most Compassionate
+    The hopeful for the pardon of an All-Hearing Lord says
+    Muhammad ibn Al-Jazari Ash-Shafi’i
+    Praise be to Allah, and may Allah send prayers
+    upon His Prophet and His chosen one
+    Muhammad, his family, his companions
+    and the reciters of the Quran along with its lovers
+    And after, indeed this is an introduction
+    regarding what a reciter must know
+    As it is obligatory upon them, mandatory
+    before beginning, first of all, to know
+    The articulation points of the letters and their attributes
+    to pronounce with the most eloquent languages
+    The refiners of Tajweed and the pauses
+    and what is written in the manuscripts
+    Of every disconnected and connected word in them
+    and the feminine ‘Tā’ which was not written with it
+  audio_lines: |
+    0.000>2.766
+    2.766>6.555
+    6.555>10.288
+    10.288>14.489
+    14.489>18.689
+    18.689>22.282
+    22.282>26.270
+    26.270>30.171
+    30.171>34.018
+    34.018>38.017
+    38.017>42.057
+    42.057>46.225
+    46.225>50.080
+    50.080>54.224
+    54.224>58.170
+    58.170>62.387
+    62.387>66.606
+  audio: audio/chapter_1.m4a
+chapter_2:
+  name: The Points of Articulation in Tajweed
+  arabic: |
+    مَخَارِجُ الحُروفِ سَبْعَةَ عَشَرْ
+    عَلَى الْذِي يَخْتَارُهُ مَنِ اخْتَبَرْ
+    فَأَلِفُ الجَوُفِ وأُخْتَاهَا وَهى
+    حُرُوفُ مَدٍّ للْـهَوَاءِ تَنْتَهـي
+    ثُمَّ لأَقْصَى الحَلْقِ هَمْزٌ هَاءُ
+    ثُمَّ لِـوَسْطِـهِ فَعَـيْنٌ حَـاءُ
+    أَدْنَـاهُ غَيْنٌ خَاؤُهَا والْقَـافُ
+    أَقْصَى اللِّسَانِ فَوْقُ ثُمَّ الْكَافُ
+    أَسْفَلُ وَالوَسْطُ فَجِيمُ الشِّينُ يـَا
+    وَالضَّادُ مِنْ حَافَتِهِ إِذْ وَلِيَــا
+    اَلأضْرَاسَ مِنْ أَيْسَرَ أَوْ يُمْنَاهَا
+    وَالـلاَّمُ أَدْنـَاهَا لمُنْتَهَاهــَا
+    وَالنُّونُ مِنْ طَرَفِهِ تَحْتُ اجْعَلُوا
+    وَالرَّا يُدَانِيهِ لِظَهْرٍ أَدْخــَلُوا
+    وَالطَّاءُ وَالدَّالُ وَتَا مِنْـهُ وَمِنْ
+    عُلْيَا الثَّنَايَا والصَّفِيرُ مُسْتـَكِنْ
+    مِنْهُ وَمِنْ فَوْقِ الثَّنَايَا السُّفْلَـى
+    وَالظـَّاءُ وَالذَّالُ وَثَا لِلْعُلْيــَا
+    مِنْ طَرْفَيْهِما وَمِنْ بَطْنِ الشَّفَهْ
+    فَالْفَا مَعَ اطْرافِ الثَّنَايَا المُشْرِفَهْ
+    للشَّـفَتَيْنِ الْـوَاوُ بَـاءٌ مِيـمُ
+    وَغُنَّـةٌ مَخْرَجُهـَا الخَيْشـُومُ
+  translation: |
+    The articulation points of the letters are seventeen
+    according to the one who investigates and chooses
+    The alif of the empty space and its two sisters
+    are letters of elongation that end in the air
+    Then for the deepest part of the throat, hamzah and hā’
+    then for its middle part, ‘ayn and ḥā’
+    Its nearest part, ghayn and khā’
+    and qāf from the farthest part of the tongue above, then kāf
+    Lower down and in the middle, jīm, shīn, yā’
+    and ḍād from its edge when it is adjacent
+    To the molars on either the left or right side
+    and lām is the nearest to its end
+    And nūn from its tip below, make it
+    and rā’ close to it, to the inside of the upper gums
+    And ṭā’, dāl, and tā’ from it and from
+    the upper front teeth, and the whistle is restrained
+    From it and from above the lower front teeth
+    and ẓā’, dhāl, and thā’ from the upper ones
+    From their tips and from the inside of the lip
+    fā’ from the edges of the protruding front teeth
+    From the two lips, wāw, bā’, and mīm
+    and the nasal sound, its articulation is the nasal passage
+  audio_lines: |
+    0.00>3.447
+    3.447>7.166
+    7.166>10.658
+    10.658>14.512
+    14.512>18.413
+    18.413>22.350
+    22.350>26.485
+    26.485>30.522
+    30.522>34.785
+    34.785>38.866
+    38.866>42.812
+    42.812>46.984
+    46.984>51.020
+    51.020>56.236
+    56.236>60.045
+    60.045>64.580
+    64.580>68.900
+    68.900>73.016
+    73.016>76.825
+    76.825>80.907
+    80.907>85.125
+    85.125>89.478
+  audio: audio/chapter_2.m4a
+chapter_3:
+  name: Description of the Characteristics of Letters in Tajweed
+  arabic: |
+    صِفَـاتُهَا جَهْـرٌ وَرِخْوٌ مُسْتَفِلْ
+    مُنْفَتِـحٌ مُصْمَـتَةٌ وَالضِّـدَّ قُـلْ
+    مَهْمُوسُهَا (فَحَثّهُ شَخْصٌ سَكَتَ)
+    شَدِيدُهَـا لَـفْظُ (أَجِدْ قَطٍ بَكَـتْ)
+    وَبَيْنَ رِخْوٍ وَالشَّدِيدِ ( لِنْ عُمَرْ)
+    وَسَبْعُ عُلْوٍ خُصَّ ضَغْطٍ قظْ حَصَرْ
+    وَصَادُ ضَادٌ طَاءُ ظَاءٌ مُطْـبَقَه
+    وَفَـرَّ مِنْ لُبِّ الحُـرُوفُ المُذْلَقَهْ
+    صَفِيـرُهَا صَـادٌ وَزَاىٌ سِينُ
+    قَلْـقَلَـةٌ قُـطْـبُ جَـدٍّ وَاللِّـينُ
+    وَاوٌ وَيَـاءٌ سَكَنَـا وَانْفَتَحَـا
+    قَبْلَـهُماَ وَالاِنْحِـرَافُ صُـحَّـحَا
+    في اللاًَّمِ وَالرَّا وَبِتَكْرِيرٍ جُعلْ
+    وَوَلِلتَّفَشِّي الشِّيـنُ ضَاداً اسْتَـطِـلْ
+  translation: |
+    Their characteristics: voiced, soft, lowered
+    open, sonorous, and their opposites, say
+    Their whispered ones: (faḥaththahu shakhaṣun sakat)
+    their strong ones: (ajid qaṭṭin bakat)
+    And between soft and strong: (lin ‘umar)
+    and seven high ones: khuṣṣa ḍaghta qaẓ ḥaṣar
+    And the emphatic letters: ṣād, ḍād, ṭā’, ẓā’
+    and the letters from the core: the fluid ones
+    Their whistling ones: ṣād, zāy, sīn
+    their echoing ones: qaṭbu jaddin, and the soft ones
+    Wāw and yā’ when still and open
+    before them, and the ones with deviation confirmed
+    In lām and rā, and for repetition, it is placed
+    and for spreading, shīn, make ḍād clear
+  audio_lines: |
+    0.000>4.200
+    4.200>8.209
+    8.209>12.018
+    12.018>16.054
+    16.054>20.136
+    20.136>24.354
+    24.354>28.481
+    28.481>32.381
+    32.381>36.417
+    36.417>40.181
+    40.181>44.580
+    44.580>48.662
+    48.662>52.608
+    52.608>56.961
+  audio: audio/chapter_3.m4a
+chapter_4:
+  name: Importance of Adhering to Tajweed
+  arabic: |
+    وَالأَخْذُ بِالتَّجْوِيدِ حَتْـمٌ لاَزِمُ
+    مَنْ لَمْ يُجَوْدِ الْقُـرَآنَ آثِــمُ
+    لأَنَّهُ بِهِ الإِلَــهُ أَنْــزَلاَ
+    وَهَكَـذَا مِنْـهُ إِلَيْنَا وَصَـلاَ
+    وَهُوَ أَيْضاً حِلْـَيةُ الـتِّلاَوَةِ
+    وَزِينَـةُ الأَدَاءِ وَالْقِــرَاءَةِ
+    وَهُوَ إِعطْاءُ الْحُرُوفِ حَقَّهَا
+    مِنْ صِـفَةٍ لَـهَا وَمُستَحَقَّهَـا
+    وَرَدُّ كُلِّ وَاحِـدٍ لأَصلِـهِ
+    وَاللَّفْـظُ فِي نَظِيرِهِ كَمِثـْلهِ
+    مُكَمِّلاً مِنْ غَيْرِ مَا تَكَلُـفِ
+    بِاللُطْفِ فِي النُّطْقِ بِلاَ تَعَسُّف
+    وَلَيْـسَ بَيْنَـهُ وَبَيْنَ تَرْكِهِ
+    إِلاَّ رِيَـاضَةُ امْـرِئٍ بِفَكِّـه
+  translation: |
+    Adhering to Tajweed is an obligatory requirement
+    for anyone who does not beautify the Quran is sinful
+    Because through it, Allah revealed
+    and thus it has come to us and remains
+    It is also the adornment of recitation
+    and the embellishment of delivery and reading
+    It is giving each letter its due right
+    based on its characteristics and what is deserving
+    It is returning each one to its origin
+    and pronouncing it like its counterpart
+    Completing it without exaggeration
+    with gentleness in pronunciation, not harshness
+    There is nothing between its practice and neglect
+    except the indulgence of a person in his own opinion
+  audio_lines: |
+    0.000>4.082
+    4.082>8.345
+    8.345>12.517
+    12.517>16.735
+    16.735>20.635
+    20.635>24.580
+    24.580>28.254
+    28.254>32.154
+    32.154>36.190
+    36.190>40.454
+    40.454>44.535
+    44.535>48.617
+    48.617>53.016
+    53.016>57.506
+  audio: audio/chapter_4.m4a
