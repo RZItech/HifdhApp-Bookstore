@@ -1,5 +1,5 @@
 name: Al Jazariyya
-version: 0.1
+version: 0.2
 chapter_1:
   name: Introduction
   arabic: |
@@ -104,7 +104,7 @@ chapter_2:
     From their tips and from the inside of the lip
     fā’ from the edges of the protruding front teeth
     From the two lips, wāw, bā’, and mīm
-    and the nasal sound, its articulation is the nasal passage
+    and the ghunna, its articulation is the nasal passage
   audio_lines: |
     0.00>3.447
     3.447>7.166
@@ -225,3 +225,56 @@ chapter_4:
     48.617>53.016
     53.016>57.506
   audio: audio/chapter_4.m4a
+
+chapter_5:
+    name: Thinning (Tarqeeq)
+    arabic: |
+        فرققن مستفلا من أحرف
+        وحاذرن تفخيم لفظ الألف
+    translation: |
+        Pronounce with Tarqeeq the 'lowered' letters
+        And be careful not to round the pronunciation of the Alif
+    audio_lines: |
+        0.000>4.214
+        4.214>8.205
+    audio: audio/chapter_5.mp3
+chapter_6:
+    name: The Chapter on the Practical Use of Letters
+    arabic: |
+        وهمز ألحمد أعوذ إهدنا
+        ألله ثم لام لله لنا
+        وليتلطف وعلى الله ولا الض
+        والميم من مخمصة ومن مرض
+        وباء برق باطل بهم بذي
+        فاحرص على الشدة والجهر الذي
+        فيها وفي الجيم كحب الصبر
+        ربوة اجتثت وحج الفجر
+        وبينن مقلقلا إن سكنا
+        وإن يكن في الوقف كان أبينا
+        وحاء حصحص أحطت الحق
+        وسين مستقيم يسطوا يسقوا
+    translation: |
+        And [thin] the Hamza of Al-Hamdu, A'udhu, and Ihdina,
+        And the [name of] Allah; then the Lam of Lillahi and Lana.
+        And [thin the Lam in] Wa-lyatallattaf, ‘Ala-llahi, and Wa-la-daal
+        And the Meem of Makhmastin and from Marad.
+        And the Baa of Barqin, Baatil, Bihim, and Bi-dhee;
+        And be careful to maintain the Shiddah (strength) and Jahr (vocalness) that is...
+        In it (the Baa) and in the Jeem, like Hubb, as-Sabr, Rubwatin, Ujtuthat, and Hajj, al-Fajr.
+        And make the Qalqalah (echoing sound) clear if the letter is Saakin (silent),
+        And if it is at a point of stopping (Waqf), it is even more apparent.
+        And [thin] the Haa of Has-hasa, Ahattu, and al-Haqq,
+        And the Seen of Mustaqeem, Yastoo, and Yasqoo.
+    audio_lines: |
+        0.000>4.237
+        4.237>8.696
+        8.696>12.595
+        12.595>16.496
+        16.496>20.714
+        20.714>24.795
+        24.795>29.555
+        29.555>24.093
+        24.093>38.174
+        38.174>41.984
+        41.984>46.428
+        46.428>50.740
