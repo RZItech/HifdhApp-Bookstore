@@ -1,5 +1,5 @@
 name: Al Jazariyya
-version: 0.6
+version: 0.7
 chapter_1:
   name: Introduction
   arabic: |
@@ -281,3 +281,5 @@ chapter_6:
         41.984>46.428
         46.428>50.740
     audio: audio/chapter_6.m4a
+normalize: |
+        مصطفي>مصطفاه
