@@ -1,5 +1,5 @@
 name: Al Jazariyya
-version: 0.2
+version: 0.3
 chapter_1:
   name: Introduction
   arabic: |
@@ -237,7 +237,8 @@ chapter_5:
     audio_lines: |
         0.000>4.214
         4.214>8.205
-    audio: audio/chapter_5.mp3
+    audio: audio/chapter_5.m4a
+
 chapter_6:
     name: The Chapter on the Practical Use of Letters
     arabic: |
@@ -278,3 +279,4 @@ chapter_6:
         38.174>41.984
         41.984>46.428
         46.428>50.740
+    audio: audio/chapter_6.m4a
