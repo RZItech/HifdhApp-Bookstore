@@ -1,5 +1,5 @@
 name: Al Jazariyya
-version: 0.4
+version: 0.5
 chapter_1:
   name: Introduction
   arabic: |
@@ -229,8 +229,8 @@ chapter_4:
 chapter_5:
     name: Thinning (Tarqeeq)
     arabic: |
-        فرققن مستفلا من أحرف
-        وحاذرن تفخيم لفظ الألف
+        فَرَقِّقَنْ مُسْتَفِلًا مِنْ أَحْرُفِ
+        وَحَاذِرَنْ تَفْخِيمَ لَفْظِ الْأَلِفِ
     translation: |
         Pronounce with Tarqeeq the 'lowered' letters
         And be careful not to round the pronunciation of the Alif
@@ -242,18 +242,18 @@ chapter_5:
 chapter_6:
     name: The Chapter on the Practical Use of Letters
     arabic: |
-        وهمز ألحمد أعوذ إهدنا
-        ألله ثم لام لله لنا
-        وليتلطف وعلى الله ولا الض
-        والميم من مخمصة ومن مرض
-        وباء برق باطل بهم بذي
-        فاحرص على الشدة والجهر الذي
-        فيها وفي الجيم كحب الصبر
-        ربوة اجتثت وحج الفجر
-        وبينن مقلقلا إن سكنا
-        وإن يكن في الوقف كان أبينا
-        وحاء حصحص أحطت الحق
-        وسين مستقيم يسطوا يسقوا
+        وَهَمْزَ الْحَمْدِ أَعُوذُ اهْدِنَا
+        اللَّهِ ثُمَّ لاَمَ لِلَّهِ لَنَا
+        وَلْيَتَلَطَّفْ وَعَلَى اللَّهِ وَلاَ الضَّـ
+        وَالْمِيمَ مِنْ مَخْمَصَةٍ وَمِنْ مَرَضْ
+        وَبَاءَ بَرْقٍ بَاطِلٍ بِهِمْ بِذِي
+        فَاحْرِصْ عَلَى الشِّدَّةِ وَالْجَهْرِ الَّذِي
+        فِيهَا وَفِي الْجِيمِ كَحُبِّ الصَّبْرِ
+        رَبْوَةٍ اجْتُثَّتْ وَحَجِّ الْفَجْرِ
+        وَبَيِّنَنْ مُقَلْقَلاً إِنْ سَكَنَا
+        وَإِنْ يَكُنْ فِي الْوَقْفِ كَانَ أَبْيَنَا
+        وَحَاءَ حَصْحَصَ أَحَطتُّ الْحَقُّ
+        وَسِينَ مُسْتَقِيمِ يَسْطُو يَسْقُو
     translation: |
         And [thin] the Hamza of Al-Hamdu, A'udhu, and Ihdina,
         And the [name of] Allah; then the Lam of Lillahi and Lana.
@@ -261,7 +261,8 @@ chapter_6:
         And the Meem of Makhmastin and from Marad.
         And the Baa of Barqin, Baatil, Bihim, and Bi-dhee;
         And be careful to maintain the Shiddah (strength) and Jahr (vocalness) that is...
-        In it (the Baa) and in the Jeem, like Hubb, as-Sabr, Rubwatin, Ujtuthat, and Hajj, al-Fajr.
+        In it (the Baa) and in the Jeem, like Hubb, as-Sabr
+        and Rubwatin, Ujtuthat, and Hajj, al-Fajr.
         And make the Qalqalah (echoing sound) clear if the letter is Saakin (silent),
         And if it is at a point of stopping (Waqf), it is even more apparent.
         And [thin] the Haa of Has-hasa, Ahattu, and al-Haqq,
