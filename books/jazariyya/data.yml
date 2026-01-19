@@ -1,5 +1,5 @@
 name: Al Jazariyya
-version: 0.7
+version: 0.8
 chapter_1:
   name: Introduction
   arabic: |
@@ -281,5 +281,30 @@ chapter_6:
         41.984>46.428
         46.428>50.740
     audio: audio/chapter_6.m4a
+
+chapter_7:
+    name: Chapter on the Rules of Ra (ر)
+    arabic: |
+        وَرَقِّقِ الرَّاءَ إِذَا مَا كُسِرَتْ
+        كَذَاكَ بَعْدَ الْكَسْرِ حَيْثُ سَكَنَتْ
+        إِنْ لَمْ تَكُنْ مِنْ قَبْلِ حَرْفِ اسْتِعْلَا
+        أَوْ كَانَتِ الْكَسْرَةُ لَيْسَتْ أَصْلَا
+        وَالْخُلْفُ فِي فِرْقٍ لِكَسْرٍ يُوجَدُ
+        وَأَخْفِ تَكْرِيرًا إِذَا تُشَدَّدُ
+    translation: |
+        And pronounce the Ra thinly if it has a Kasra
+        Likewise after a Kasra when it is Sakin
+        As long as it is not before a letter of elevation
+        Or the Kasra is not an original one
+        A choice exists for the word 'Firqin' due to the Kasra
+        And hide the bounce when it is has a Shaddda
+    audio_lines: |
+        0.000>3.583
+        3.583>7.347
+        7.347>10.930
+        10.930>14.830
+        14.830>19.093
+        19.093>23.583
+    audio: audio/chapter_7.m4a
 normalize: |
         مصطفي>مصطفاه
